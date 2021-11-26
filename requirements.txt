@@ -1,0 +1,6 @@
+DAWG==0.8.0
+DAWG-Python==0.7.2
+decorator==4.4.1
+networkx==2.4
+Pillow==7.0.0
+pure-python-adb==0.3.0.dev0
